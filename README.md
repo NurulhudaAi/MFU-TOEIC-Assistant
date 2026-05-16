@@ -35,12 +35,12 @@ The **MFU TOEIC Assistant** helps students and the general public navigate the c
    streamlit run app.py
 
 ### 👥 Contributors (Group 5)
-* **Nurulhuda Adam Ishaq** (6631501067)
-* **Jiranya Arun** (6631501023)
-* **Chanisara Pathrugsa** (6631501026)
-* **Phloiphailin Khampuk** (6631501081)
-* **Chaw Chaw Latt** (6631501131)
-* **Yoon Thedar Cho** (6631501193)
+* **Nurulhuda Adam Ishaq** 
+* **Jiranya Arun** 
+* **Chanisara Pathrugsa** 
+* **Phloiphailin Khampuk** 
+* **Chaw Chaw Latt** 
+* **Yoon Thedar Cho** 
 
 ---
 
